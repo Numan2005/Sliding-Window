@@ -3,7 +3,7 @@ package com.sliding;
 public class SlidingProb10 {
 
 	public static void main(String[] args) {
-		int[] arr = {5,2,3,7,4,2,7};
+		int[] arr = {5,2,3,7,4,4,7};
 		int k=3;
 		
 		int i=0,j=0;
